@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: saibrone
+@author: Fadi Helal
 """
 from tkinter import *
 from tkinter.ttk import Combobox
