@@ -31,6 +31,7 @@ A GUI-based application is provided that helps in calculating the forward and in
 - Calculate forward and inverse kinematics.
 
 The application is built using the `Tkinter` library.
+![image](https://github.com/SAIPRONE/kinematics/assets/95390348/e258a172-231c-42db-9761-fdcf20f18e25)
 
 ## Usage :computer:
 
